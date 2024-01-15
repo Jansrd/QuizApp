@@ -10,7 +10,7 @@ Welcome to the React Quiz App! Test your knowledge on various topics with this i
 
 ## Features
 
-- **Dynamic Quizzes:** Engage users with a diverse set of quizzes on different subjects.
+- **Dynamic Quizzes:**  Engage users with a diverse set of questions.
 - **Score Tracking:** Monitor your quiz score.
 - **Responsive Design:** Enjoy a seamless experience on various devices.
   
