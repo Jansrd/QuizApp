@@ -34,6 +34,5 @@ Welcome to the React Quiz App! Test your knowledge on various topics with this i
 
 ## Lessons Learned
 Working on this project I learned valuable lessons in:
-- Dynamic Component Rendering: Gained insights into dynamically rendering components adaptable to various topics and question types.
 - State Management Complexity: Faced and addressed challenges in managing state effectively, especially during quiz sessions
 - Explored methods to track quiz scores.
